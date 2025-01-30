@@ -1,6 +1,6 @@
 # Introduction
 
-Good day. My name is Samuel Effiong Jacob, and today, I’m excited to present a scalable, user-focused financial application that empowers users to manage multiple wallets with unique types and features.
+Good day. My name is Samuel Effiong Jacob, and today, along with my partner Nicholas Dornyo, I’m excited to present a scalable, user-focused financial application that empowers users to manage multiple wallets with unique types and features.
 
 - **Problem Statement:**  
 Managing multiple financial accounts can be cumbersome, especially when different accounts have specific requirements like minimum balances or interest rates. Furthermore, transferring money securely and seamlessly between accounts is a challenge for many users.
